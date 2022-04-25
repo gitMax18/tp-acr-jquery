@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+    <player>
+        <id>1</id>
+        <prenom>Ruben</prenom>
+        <nom>Ayala</nom>
+        <img_path>img1.png</img_path>
+        <dob>
+            <day>08</day>
+            <month>01</month>
+            <year>1950</year>
+        </dob>
+        <bio>Rubén Hugo Ayala Zanabria, né le 8 janvier 1950 à Santa Fe, est un footballeur et entraîneur argentin. En tant qu'attaquant, Rubén Ayala est international argentin à 25 reprises (1969-1974) pour 11 buts.</bio>
+    </player>
+    <player>
+        <id>2</id>
+        <prenom>Rubén</prenom>
+        <nom>Pollák</nom>
+        <img_path>img2.png</img_path>
+        <dob>
+            <day>11</day>
+            <month>07</month>
+            <year>1947</year>
+        </dob>
+        <bio>Jaroslav Pollák est un footballeur tchécoslovaque et slovaque, né le 11 juillet 1947 à Medzev. En tant que défenseur, il fut international tchécoslovaque à 49 reprises (1968-1976) pour un but. Il participa à la Coupe du monde de football de 1970, au Mexique</bio>
+    </player>
+    <player>
+        <id>3</id>
+        <prenom>Andrzej</prenom>
+        <nom>Szarmach</nom>
+        <img_path>img3.png</img_path>
+        <dob>
+            <day>03</day>
+            <month>10</month>
+            <year>1950</year>
+        </dob>
+        <bio>Andrzej Szarmach, né le 3 octobre 1950 à Gdańsk, est un footballeur international puis entraîneur polonais. Il évolue au poste d'avant-centre de la fin des années 1960 à la fin des années 1980.</bio>
+    </player>
+    <player>
+        <id>4</id>
+        <prenom>Johan</prenom>
+        <nom>Cruyff</nom>
+        <img_path>img4.png</img_path>
+        <dob>
+            <day>25</day>
+            <month>04</month>
+            <year>1947</year>
+        </dob>
+        <bio>Hendrik Johannes Cruijff, dit Johan Cruyff ou Johan Cruijff (Écouter), né le 25 avril 1947 à Amsterdam et mort le 24 mars 2016 à Barcelone, est un footballeur international néerlandais, qui évoluait au poste d'attaquant, avant de devenir entraîneur.</bio>
+    </player>
+    <player>
+        <id>5</id>
+        <prenom>Jaques</prenom>
+        <nom>Santini</nom>
+        <img_path>img5.png</img_path>
+        <dob>
+            <day>25</day>
+            <month>04</month>
+            <year>1952</year>
+        </dob>
+        <bio>Jacques Santini, né le 25 avril 1952 à Delle dans le Territoire de Belfort, est un footballeur français devenu entraîneur. Il fut le sélectionneur des « Bleus » du 21 août 2002 au 25 juin 2004. Il est actuellement manager général du Paris Football Club.</bio>
+    </player>
+    <player>
+        <id>6</id>
+        <prenom>Carlo</prenom>
+        <nom>Ancelotti</nom>
+        <img_path>img6.png</img_path>
+        <dob>
+            <day>10</day>
+            <month>06</month>
+            <year>1959</year>
+        </dob>
+        <bio>Carlo Ancelotti, né le 10 juin 1959 à Reggiolo (Italie), est un footballeur international italien, reconverti comme entraîneur. Surnommé Carletto ou « Il mister », le milieu de terrain connaît une brillante carrière à l'AS Rome, où il porte le brassard de capitaine et remporte un titre de champion d'Italie et quatre coupes nationales.</bio>
+    </player>
+</players>

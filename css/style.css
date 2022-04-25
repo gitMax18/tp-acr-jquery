@@ -1,0 +1,46 @@
+*,::before,::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 2rem;
+    background-color: rgb(226, 57, 0);
+    color: white;
+}
+
+.players-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.player-card{
+    transition: all 0.2s ease-out;
+    margin: 20px;
+}
+
+.player-info{
+    /* border: 5px solid coral; */
+    padding: 10px;
+}
+
+.player-name{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.player-bird{
+    margin: 1rem 0;
+}
+
+.selected{
+    transform: scale(1.1);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
